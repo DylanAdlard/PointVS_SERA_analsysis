@@ -1,0 +1,1 @@
+This is a model that was trained with sera alone at lr=0.8, and momentum=0.3, and using 1_0_1 control points

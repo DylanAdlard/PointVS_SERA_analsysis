@@ -1,0 +1,1 @@
+This model is simply Jack's MSE model and his parameters
