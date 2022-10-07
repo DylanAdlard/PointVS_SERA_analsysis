@@ -1,4 +1,4 @@
-# PointVS_SERA_analsysis
+# PointVS_SERA_analysis
 A repo to store the analysis code for my second SABS rotation project.
 
 The majority of code used to analyse model outputs and generate the figures in the report can be found in 'analysis.ipynb'.
